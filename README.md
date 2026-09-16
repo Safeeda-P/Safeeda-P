@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Safeeda P</h1>
-<h3 align="center">A Passionate Data Analyst from India</h3>
+<h3 align="center">A passionate Data Analyst from India</h3>
 
 - 🔭 I’m currently working on *Data Analytics projects*
 - 🌱 I’m currently learning *Advanced Data Analytics and real-world projects*
@@ -22,12 +22,16 @@
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> 
   </a> 
   <a href="https://www.microsoft.com/en-us/microsoft-365/excel" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/3/34/Microsoft_Office_Excel_%282019%E2%80%93present%29.svg" alt="excel" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoft/microsoft-original.svg" alt="excel" width="40" height="40"/> 
   </a> 
   <a href="https://powerbi.microsoft.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/c/cf/New_Power_BI_Logo.svg" alt="powerbi" width="40" height="40"/> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/powerbi/powerbi-original.svg" alt="powerbi" width="40" height="40"/> 
   </a> 
   <a href="https://www.tableau.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4b/Tableau_Logo.png" alt="tableau" width="40" height="40"/> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tableau/tableau-original.svg" alt="tableau" width="40" height="40"/> 
   </a> 
 </p>
+
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=safeeda-p&show_icons=true&locale=en&layout=compact" alt="safeeda-p" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=safeeda-p&show_icons=true&locale=en" alt="safeeda-p" /></p>
